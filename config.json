@@ -1,0 +1,5 @@
+{
+    "token": "token",
+    "prefix": "+",
+    "mongooseConnectionString": "mongodb+srv://shkssj07:shkssj1234@cluster0.nkmbq2w.mongodb.net/?retryWrites=true&w=majority"
+}
